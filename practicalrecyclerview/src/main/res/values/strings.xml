@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PracticalRecyclerView">
+        <attr name="empty_layout" format="reference" />
+        <attr name="error_layout" format="reference" />
+        <attr name="loading_layout" format="reference" />
+        <attr name="load_more_layout" format="reference" />
+        <attr name="no_more_layout" format="reference" />
+        <attr name="load_more_failed_layout" format="reference" />
+    </declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="app_name">SuperRecycler</string>
+    <string name="empty">没有数据</string>
+    <string name="error">网络连接失败,请点击重试</string>
+    <string name="load_more_failed">加载失败, 点击重试</string>
+    <string name="loading">加载中…</string>
+    <string name="no_more">-----我是有底线的-----</string>
+</resources>

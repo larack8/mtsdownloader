@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_df8638f9fc8a10f4d3f81268d4d454a1e1b1b54c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_dfc6552c2a0b8299ff71ec15eeb5d0bef3dd183c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex.rxjava2-rxandroid-2.0.1_db8ea01bcdb4ec49b99037db6e6e8c8abf8b60ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.tbruyelle.rxpermissions2/rxpermissions/0.8.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40bc3e8bca0682e0996ddc3c9ae471345b637bf3">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.tbruyelle.rxpermissions2-rxpermissions-0.8.2_ab017bfcc217720ce6b582e2ff8e9509136102c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d48914e2ce170814382e69f4b8a7ea92ab639e0">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6579315668d799a7a729ef75a69e143e586ecf82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_bc892684be72b78b9d964c409348276e8e62f26e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_dff7ced3b60cf535fc773d9b93be698574adec66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_d76f877769137f4edc3bed7e118e938cf6d190ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_49372223192a3673a937836136bcd1dd16cdaf74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_f648e6088cb06ab5788b7d0c2151a0401136fe31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_a0c4904d1753ea34a1bcda53308eb2f8cef080ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit2-rxjava2-adapter-1.0.0_e076d7c193ac4551c4ae1a9091d9a12107e5c847/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_fa23ae87d087e0d907b10f681175e823f7bdd120/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_71f71040940c1515a3fde3f81c2679314f3c69e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_9ab0be2f09ff820ab8b1d28997f7955db0f65a08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_60dcc72bf38a6ba68ab152e0cd33913244107e05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_6c702137675eacaab7a28c9dc9d32c01ea10490f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_794b13bc5f3bdf86b594ddd0ca6c612156ddaeaa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_689ecfcf14d766862d38126206c4990806746575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_d78152f9a1d282d0ea03056686ef50913be2e474/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_ac16abff2b54498ddba012153518578128f8cc6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.1_d1ce9280b5c064983f30100ac5315649a0368d56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_d6bfbb36cb4ed23c649e97c8353972f4b40f9b8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_56e58b442b59aada38fdd2cc080e67cb96e32958/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_7d06271fb191f1406f0eca656d992712f9d75428/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Shared/Develop/gradle/gradle-2.14-all/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_4cde4cc3a9e46e426deff104091b51dacc89bc68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_2bf12b94f5f34ae088b0ba400ad9fd53afca95ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_ca008c618d7dc9eeeb6719933341e7eb2bf13150/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="692cb4e41e59b1290e7413668aa1fd98edcf6f4c">
+        <dex dex="/Users/lijinqian/Code/util/MtsDownload-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5551cd4a834926708a44975b5747366f86b80953/classes.dex" />
+    </item>
+
+</items>
